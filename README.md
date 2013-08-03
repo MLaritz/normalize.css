@@ -1,4 +1,12 @@
-# normalize.css v1
+# Normalize.css v1 NuGet Package
+
+This is a fork of the original repo to be used solely for creating a NuGet package for the Legacy version (v1) of the Normalize.css library.
+
+### NuGet Package
+
+This NuGet package will place the legacy (v1) version of normalize.css in your Content folder.
+
+## What is Normalize.css?
 
 Normalize.css is a customisable CSS file that makes browsers render all
 elements more consistently and in line with modern standards. We researched the
@@ -31,11 +39,11 @@ override the defaults later in your CSS.
 * Opera 10+
 * Internet Explorer 6+
 
-## Contribute
-
-Please read the CONTRIBUTING.md
-
 ## Acknowledgements
 
 Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
 co-created with [Jonathan Neal](https://github.com/jonathantneal).
+
+## Normalize.css Original Repo
+
+For more information, head to the original repository for the [normalize.css](https://github.com/necolas/normalize.css).

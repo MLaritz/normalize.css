@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Normalize.Css.Legacy</id>
+    <version>1.1.2</version>
+    <authors>Nicolas Gallagher, Jonathan Neal</authors>
+    <summary>Normalize.css - 1.1.2 - supports legacy browsers</summary>
+    <description>Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards. Legacy version - supports older browsers.</description>
+    <projectUrl>https://github.com/MLaritz/normalize.css/tree/v1</projectUrl>
+  </metadata>
+  <files>
+    <file src="..\normalize.css" target="Content\Content" />
+  </files>
+</package>
